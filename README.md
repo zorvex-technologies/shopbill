@@ -6,7 +6,7 @@ This repository only holds the **website and the downloads**. Get the latest ver
 
 ## User manual
 
-Illustrated manual (real screenshots, computer and phone): [English](https://github.com/zorvex-technologies/shopbill/releases/download/v0.5.29/ShopBill-Manual-0.5.29-English.pdf), [हिन्दी](https://github.com/zorvex-technologies/shopbill/releases/download/v0.5.29/ShopBill-Manual-0.5.29-Hindi.pdf), [both in one file](https://github.com/zorvex-technologies/shopbill/releases/download/v0.5.29/ShopBill-Manual-0.5.29-English-Hindi.pdf).
+Illustrated manual (real screenshots, computer and phone): [English](https://github.com/zorvex-technologies/shopbill/releases/download/v0.5.30/ShopBill-Manual-0.5.30-English.pdf), [हिन्दी](https://github.com/zorvex-technologies/shopbill/releases/download/v0.5.30/ShopBill-Manual-0.5.30-Hindi.pdf), [both in one file](https://github.com/zorvex-technologies/shopbill/releases/download/v0.5.30/ShopBill-Manual-0.5.30-English-Hindi.pdf).
 
 ## Install
 
